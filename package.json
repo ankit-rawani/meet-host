@@ -12,14 +12,19 @@
         "prepare": "husky install"
     },
     "dependencies": {
+        "class-variance-authority": "^0.6.0",
+        "clsx": "^1.2.1",
         "firebase": "^9.21.0",
         "flowbite": "^1.6.5",
         "flowbite-react": "^0.4.4",
         "framer-motion": "^10.12.8",
+        "lucide-react": "^0.233.0",
         "next": "13.4.1",
         "react": "18.2.0",
         "react-dom": "18.2.0",
-        "react-icons": "^4.8.0"
+        "react-icons": "^4.8.0",
+        "tailwind-merge": "^1.13.0",
+        "tailwindcss-animate": "^1.0.5"
     },
     "devDependencies": {
         "@types/eslint": "8.37.0",
